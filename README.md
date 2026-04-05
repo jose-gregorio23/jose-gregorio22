@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jose Gregorio 👋
+# ¡Hola! Soy Jose Gregorio 
 
 ### Sobre mí
 - Estudiante de **Ingeniería de Software con Inteligencia Artificial** en SENATI.
